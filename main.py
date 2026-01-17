@@ -1,4 +1,4 @@
-from app.scraper import generate_brochure
+from app.llm_generator import generate_brochure
 import json
 
 def main():
